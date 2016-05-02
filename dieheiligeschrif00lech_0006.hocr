@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dieheiligeschrif00lech_0006.png"; bbox 0 0 2046 3496; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2036 3496">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2036 3496">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2036 3496; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 2036 3496; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 249 1531 1521 1678">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 249 1531 1521 1678">
+     <span class='ocr_line' id='line_1_2' title="bbox 249 1531 1521 1616; baseline 0.002 -24"><span class='ocrx_word' id='word_1_2' title='bbox 249 1607 253 1611; x_wconf 15' lang='grc' dir='ltr'><em>η</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 277 1584 322 1616; x_wconf 46' lang='lat'>3</span> <span class='ocrx_word' id='word_1_4' title='bbox 306 1531 524 1595; x_wconf 74' lang='lat' dir='ltr'><strong>Entered</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 546 1546 799 1606; x_wconf 81' lang='lat' dir='ltr'>according</span> <span class='ocrx_word' id='word_1_6' title='bbox 819 1549 875 1592; x_wconf 85' lang='lat' dir='ltr'><strong>fo</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 888 1551 962 1594; x_wconf 78' lang='lat' dir='ltr'><strong>act</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 983 1548 1035 1592; x_wconf 84' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1051 1548 1291 1613; x_wconf 83' lang='lat' dir='ltr'><strong>Congress‚</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1313 1549 1362 1594; x_wconf 85' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1386 1549 1473 1597; x_wconf 83' lang='lat' dir='ltr'><strong>the</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1488 1540 1521 1609; x_wconf 48' lang='grc' dir='ltr'><em>ᾖ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 283 1610 1519 1678; baseline 0.005 -16"><span class='ocrx_word' id='word_1_13' title='bbox 283 1624 297 1637; x_wconf 80' lang='grc'><strong>·’</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 695 1619 819 1665; x_wconf 81' lang='lat' dir='ltr'>Most</span> <span class='ocrx_word' id='word_1_15' title='bbox 840 1619 955 1666; x_wconf 82' lang='lat' dir='ltr'><strong>Rev</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 978 1615 1230 1667; x_wconf 68' lang='lat' dir='ltr'><strong>Bom‘mcss</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1252 1610 1519 1678; x_wconf 67' lang='grc' dir='ltr'><strong>ΨΙΜΜΕΒ,ζ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
